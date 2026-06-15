@@ -1,17 +1,10 @@
 # Open House
 A full-stack app project built with Express, MongoDB, and EJS.
 
-## Screenshot/Logo
-Add a screenshot here.
-
 ## Description
 This project was built as a full-stack application using the MEN stack. It appears to focus on organising and displaying data through server routes, models, and views.
 
-It was a useful way to practice structuring a complete Express application and connecting the back end to rendered pages.
-
-## Deployment Link
-**Live App:**  
-Add your deployed link here if available.
+It was a useful way to practice structuring a complete Express application and connecting the back end to rendered pages
 
 ## Planning
 Before building, the main focus was likely on how the app data should be structured and how users would interact with it.
